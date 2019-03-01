@@ -1,0 +1,25 @@
+{
+  "name": "react-native-convenience",
+  "version": "1.0.0",
+  "description": "combinations of quick tools to make developer lives easier",
+  "main": "Utilties.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ispirett/react-native-tools.git"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "npm",
+    "react-native-tools"
+  ],
+  "author": "Ispirett Isaac Browne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ispirett/react-native-tools/issues"
+  },
+  "homepage": "https://github.com/Ispirett/react-native-tools#readme"
+}
