@@ -1,5 +1,5 @@
 import {Platform, ToastAndroid} from "react-native";
-
+import {ListItems} from './StyleComponents'
  const TOAST =  (msg, duration, position=ToastAndroid.CENTER) => {
     //Check if duration = short or long
         try {
@@ -31,4 +31,18 @@ import {Platform, ToastAndroid} from "react-native";
 };
 
 
- export default TOAST
+
+
+
+
+
+
+
+
+
+
+
+
+
+export {ListItems}
+export default TOAST
