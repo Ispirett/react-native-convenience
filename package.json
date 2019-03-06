@@ -1,6 +1,6 @@
 {
   "name": "react-native-convenience",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "combinations of quick tools to make developer lives easier",
   "main": "Utilties.js",
   "scripts": {
