@@ -22,7 +22,7 @@
     "url": "https://github.com/Ispirett/react-native-tools/issues"
   },
   "homepage": "https://github.com/Ispirett/react-native-tools#readme",
-  "dependencies": {
+  "devDependencies": {
     "react-native": "^0.58.6"
   }
 }
